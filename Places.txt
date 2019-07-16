@@ -1,0 +1,41 @@
+NAME,LOCATION,TYPE,LAT,LON
+Taj_Mahal,Agra,Monumnet,27.174547,78.041984
+Lotus_Temple,Delhi,Monument,28.553426,77.259105
+Mysore_Palace,Karnataka,Monument,12.305228,76.654958
+Hawa_Mahal,Jaipur,Monument,26.871401,75.695938
+Sanchi_Stupa,MadhyaPradesh,Monument,23.479330,77.739832
+Qutub_Minar,Delhi,Monument,28.524532,77.185306
+Victoria_Memorial,Kolkata,Monument,22.545155,88.342933
+Gateway_of_India,Mumbai,Monument,18.922102,72.834540
+Charminar,Hyderabad,Monument,17.353873,78.477264
+Chhatrapati_Shivaji_Terminus,Mumbai,Monument,18.939893,72.835265
+White_Water_Rafting,Rishikesh,Adventure-Sport,30.054243,78.219990
+Skiing,Auli,Adventure-Sport,30.537729,79.565313
+Hang_Gliding,Kasauli,Adventure-Sport,30.891680,76.971343
+Trekking,Ladakh,Adventure-Sport,34.176580,77.578748
+Ice_Climbing,Gulmarg,Adventure-Sport,34.048375,74.380441
+Scuba_Diving,Andamans,Adventure-Sport,12.035751,92.987821
+Sky_Diving, Mysore,Adventure-Sport,12.227873,76.658066
+Bungee_Jumping,Rishikesh,Adventure-Sport,30.060015,78.226589
+Water_Sports,Goa,Adventure-Sport,15.584279,73.757867
+Hot_Air_Balooning,Pushkar,Adventure-Sport,26.493908,74.522654
+National_Museum,Delhi,Museum,28.612250,77.219328
+Indian_Museum,Kolkata,Museum,22.557859,88.351133
+Madras_Government_Museum,Chennai,Museum,13.071607,80.256749
+Chhatrapati_Shivaji_Vastu_Museum,Mumbai,Museum,18.926758,72.832821
+Shakars_International_Doll_Museum,Delhi,Museum,28.630532,77.241509
+Salar_Jung_Museum,Hyderabad,Museum,17.371658,78.480254
+National_Rail_Museum,Delhi,Museum,28.585909,77.179899
+Calico_Museum,Ahmedabad,Museum,23.054257,72.592252
+Dr.Bhau_Daji_Lad_Museum,Mumbai,Museum,18.978964,72.834723
+Napier_Museum,Thiruvananthapuram,Museum,8.508876,76.955228
+Corbett_National_Park,Uttarakhand,National-Park,29.528997, 78.774873
+Ranthambore_National_Park,Rajasthan,National-Park,26.015734,76.497724
+Kanha_National_Park,Madhya Pradesh,National-Park,22.334961,80.600194
+Pench_National_Park,Madhya Pradesh,National-Park,21.766339,79.351002
+Bandhavgarh_National_Park,Madhya Pradesh,National-Park,23.722445,81.024167
+Kaziranga_National_Park,Assam,National-Park,26.525018,92.993523
+Sundarbans_National_Park,West Bengal,National-Park,21.881581,88.886114
+Valley_of_Flowers_National_Park, Uttarakhand,National-Park,30.727858,79.605173
+Bandipur_National_Park,Karnataka,National-Park,11.753955,76.444724
+Nagahole_National_Park,Karnataka,National-Park,12.031359,76.120639
